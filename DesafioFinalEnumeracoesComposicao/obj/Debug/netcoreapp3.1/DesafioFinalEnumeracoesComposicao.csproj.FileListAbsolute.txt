@@ -1,0 +1,13 @@
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\bin\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.exe
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\bin\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.deps.json
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\bin\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.runtimeconfig.json
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\bin\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.runtimeconfig.dev.json
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\bin\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.dll
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\bin\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.pdb
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\obj\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.csprojAssemblyReference.cache
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\obj\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.AssemblyInfoInputs.cache
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\obj\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.AssemblyInfo.cs
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\obj\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.csproj.CoreCompileInputs.cache
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\obj\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.dll
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\obj\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.pdb
+C:\Estudos\Curso C#\projetos\DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao\obj\Debug\netcoreapp3.1\DesafioFinalEnumeracoesComposicao.genruntimeconfig.cache

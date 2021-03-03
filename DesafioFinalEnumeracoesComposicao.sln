@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFinalEnumeracoesComposicao", "DesafioFinalEnumeracoesComposicao\DesafioFinalEnumeracoesComposicao.csproj", "{A2AFEB20-A9A0-4198-B0E9-72201E858178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AFEB20-A9A0-4198-B0E9-72201E858178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AFEB20-A9A0-4198-B0E9-72201E858178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AFEB20-A9A0-4198-B0E9-72201E858178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AFEB20-A9A0-4198-B0E9-72201E858178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08A44109-E238-4812-A6A5-60F5E8FDD710}
+	EndGlobalSection
+EndGlobal
